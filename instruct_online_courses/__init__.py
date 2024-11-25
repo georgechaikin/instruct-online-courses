@@ -1,0 +1,1 @@
+from instruct_online_courses.config_processing import settings, logger
